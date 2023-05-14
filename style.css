@@ -1,0 +1,8 @@
+.close{
+    cursor: pointer;
+    color: red;
+
+}
+ul li {
+    list-style: none;
+}
